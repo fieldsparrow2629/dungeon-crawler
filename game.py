@@ -20,7 +20,7 @@ def intro():
 intro()
 
 #dungeon
-dungeon.room_one()
+dungeon.room_one(hero)
 
 
     
