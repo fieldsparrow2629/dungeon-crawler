@@ -21,6 +21,7 @@ intro()
 
 #dungeon
 dungeon.room_one(hero)
+dungeon.room_two(hero)
 
 
     

@@ -4,3 +4,4 @@ class Hero:
          self.pos = 1
          self.health = [10,10]
          self.inv = []
+
